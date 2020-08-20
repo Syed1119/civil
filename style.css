@@ -1,0 +1,22 @@
+.navbar{
+    margin-top: -50px;
+}
+
+header a{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: white;
+	text-decoration: none;
+}
+ #title{
+    color: white;
+    padding-left: 100px;
+}
+.logo2{
+    position: absolute;
+    right: 0%;
+    top: 10%;
+}
